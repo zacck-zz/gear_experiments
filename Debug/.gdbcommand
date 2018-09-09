@@ -1,0 +1,5 @@
+set sysroot /Users/zacck/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-emulator.core
+set debug-file-directory /Users/zacck/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-emulator.core/usr/lib/debug
+set solib-search-path /Users/zacck/Documents/tizen_workspace/WatchApp/Debug
+dir /Users/zacck/tizen-studio/tools/smart-build-interface/../../platforms/tizen-2.3.2/wearable/rootstraps/wearable-2.3.2-emulator.core/usr/src/debug
+sharedlibrary
